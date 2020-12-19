@@ -29,7 +29,7 @@ body {
 .uuu{
     position: absolute;
     top: 40px;
-    right: 380px;
+    right: 180px;
     display: flex;
     flex-direction: row;
     width: auto;
