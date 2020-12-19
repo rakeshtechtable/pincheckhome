@@ -18,7 +18,7 @@ body {
 .want_job {
     position: absolute;
     top: 40px;
-    right: 240px;
+    right: 270px;
     display: flex;
     flex-direction: row;
     width: auto;
